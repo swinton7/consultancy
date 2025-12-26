@@ -3,8 +3,6 @@ layout: default
 title: End-to-End Analytics
 ---
 
-<div align="center">
-
 # End-to-End Analytics, Done Right
 **Turn raw data into trusted business insights — fast.**
 
