@@ -163,6 +163,8 @@ Our solutions are primarily built on:
   <img src="assets/snowflake.svg" alt="Snowflake" height="32"/>
 </p>
 
+*Platforms we primarily work with. Logos are trademarks of their respective owners.*
+
 By specializing in these ecosystems, we move faster, apply best practices consistently, and avoid unnecessary complexity — while still designing systems that can evolve as your needs grow.
 
 ---
