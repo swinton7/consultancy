@@ -6,18 +6,11 @@ title: End-to-End Analytics
 <div align="center">
 
 # End-to-End Analytics, Done Right
-
 **Turn raw data into trusted business insights — fast.**
 
 Opinionated. Standardized. Production-ready by default.
 
-<br/>
-
-<a href="#contact">
-  <strong>Contact Me →</strong>
-</a>
-
-</div>
+[Contact Me →](#contact)
 
 ---
 
