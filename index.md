@@ -3,46 +3,67 @@ layout: default
 title: End-to-End Analytics
 ---
 
-# End‑to‑End Analytics, Done Right
+<div align="center">
 
-We help small to medium enterprises turn raw data into trusted insights — fast.
+# End-to-End Analytics, Done Right
 
-Our approach is **opinionated, standardized, and production‑ready by default**, so you get results quickly without sacrificing scalability or governance.
+**Turn raw data into trusted business insights — fast.**
 
-Every tier delivers **end‑to‑end analytics**:
-**from data ingestion → analytics‑ready datasets → dashboards.**
+Opinionated. Standardized. Production-ready by default.
 
-The difference between tiers is **how much customization you need**, not whether the solution is complete.
+<br/>
+
+<a href="#contact">
+  <strong>Contact Me →</strong>
+</a>
+
+</div>
+
+---
+
+## What We Do
+
+We help **small to medium enterprises** build reliable analytics platforms — without over-engineering or long delivery cycles.
+
+Every engagement delivers **end-to-end analytics**:
+
+> **Data ingestion → Analytics-ready datasets → Dashboards**
+
+The difference between tiers is **how much customization you need**,  
+not whether the solution is complete.
 
 *Typical engagements range from a few weeks for standardized setups to several months for complex platforms.*
 
 ---
 
-## Our Approach
+## Our Philosophy
 
 Most data projects fail because everything is built from scratch.
 
-We do the opposite:
+We do the opposite.
 
-* Proven, standardized foundations
-* Clear boundaries on what’s configurable
-* Customization only where it adds real business value
+✔ Proven, standardized foundations  
+✔ Clear boundaries on what’s configurable  
+✔ Customization only where it adds real business value  
 
-This keeps your analytics:
+**The result:**
 
-* Faster to launch
-* Easier to maintain
-* Cheaper to scale
+- Faster time to insight  
+- Lower long-term maintenance cost  
+- Systems that scale with your business  
 
 ---
 
-## Our Tiers
+## Engagement Models
 
-### Pricing model
+### Pricing Overview
 
-* **Standardized**: one‑time project, starting from **USD 25,000**
-* **Enterprise**: one‑time project, pricing based on scope
-* **Partnership**: ongoing engagement, custom pricing
+| Tier | Engagement Type | Pricing |
+|----|----|----|
+| **Standardized Analytics** | One-time project | From **USD 25,000** |
+| **Enterprise Analytics** | One-time project | Scope-based |
+| **Partnership** | Ongoing | Custom |
+| **Consulting & Advisory** | Time-based | Hourly / Daily |
 
 Exact pricing depends on data volume, sources, and delivery timeline.
 
@@ -50,26 +71,24 @@ Exact pricing depends on data volume, sources, and delivery timeline.
 
 ## Consulting & Advisory
 
-**Best for teams that need expert guidance without a full implementation**
+**For teams that need senior guidance without a full build**
 
-Short‑term, high‑impact support focused on strategy, architecture, and decision‑making.
+Short-term, high-impact support focused on **decisions, not deliverables**.
 
-**Typical use cases**
+**Common use cases**
 
-* Data architecture and warehouse selection
-* Analytics strategy and roadmap
-* Migration and modernization planning
-* Cost, performance, and scalability reviews
-* Design validation before implementation
+- Data architecture & warehouse selection  
+- Analytics strategy and roadmap  
+- Migration & modernization planning  
+- Cost, performance, and scalability reviews  
+- Design validation before implementation  
 
 **Pricing**
 
-* **USD 100 per hour**
-* **USD 600 per day**
+- **USD 100 / hour**
+- **USD 600 / day**
 
-Minimum engagement may apply.
-
-*Consulting engagements often lead into implementation, but there’s no obligation.*
+*Minimum engagement may apply. No obligation to continue into implementation.*
 
 ---
 
@@ -77,116 +96,115 @@ Minimum engagement may apply.
 
 **Best for teams using data for the first time**
 
-Get a complete analytics setup quickly using proven templates.
+A fast, reliable analytics setup using proven templates and best practices.
 
-**What you get**
+**You get**
 
-* End‑to‑end analytics platform
-* Reliable data ingestion from common sources
-* Clean, analytics‑ready datasets
-* Ready‑to‑use dashboard templates
+- End-to-end analytics platform  
+- Reliable ingestion from common sources  
+- Clean, analytics-ready datasets  
+- Ready-to-use dashboard templates  
 
-**Why choose this**
+**Ideal if**
 
-* You need insights ASAP
-* You want minimal setup and maintenance
-* You prefer best practices over custom builds
+- You need insights ASAP  
+- You want minimal setup & maintenance  
+- You prefer proven patterns over custom builds  
 
 ---
 
 ## Enterprise Analytics
 
-**Best for data‑aware teams that need flexibility**
+**For data-aware teams that need flexibility**
 
-Build on the same standardized foundation, with customization where it matters.
+Built on the same standardized foundation — customized where it matters.
 
-**What you get**
+**You get**
 
-* End‑to‑end analytics platform
-* Custom metrics and business logic
-* Tailored dashboards and reporting
-* Support for higher data volume and velocity
+- End-to-end analytics platform  
+- Custom metrics & business logic  
+- Tailored dashboards & reporting  
+- Support for higher data volume & velocity  
 
-**Why choose this**
+**Ideal if**
 
-* Your business logic is unique
-* You need near real‑time insights
-* You want analytics shaped around your workflows
+- Your business logic is unique  
+- You need near real-time insights  
+- Analytics must fit existing workflows  
 
 ---
 
 ## Partnership
 
-**Best for complex, regulated, or evolving organizations**
+**For complex, regulated, or evolving organizations**
 
-A long‑term collaboration for bespoke analytics platforms.
+A long-term collaboration to design and operate bespoke analytics platforms.
 
-**What you get**
+**You get**
 
-* Fully customized end‑to‑end analytics
-* Support for complex or legacy data sources
-* Multi‑environment setups (UAT / Production)
-* Advanced use cases such as experimentation, ML, or platform migration
+- Fully customized end-to-end analytics  
+- Support for legacy or complex data sources  
+- Multi-environment setups (UAT / Production)  
+- Advanced use cases: experimentation, ML, platform migration  
 
-**Why choose this**
+**Ideal if**
 
-* You’re migrating or modernizing existing systems
-* You operate in regulated industries
-* You need a data partner, not just a vendor
-
----
-
-## What’s Included in Every Tier
-
-No matter the tier, every solution includes:
-
-* Production‑ready architecture
-* Fully documented systems
-* Infrastructure‑as‑code
-* Monitoring and alerts
-* Security and access control
-
-All platforms are delivered with full documentation and handover, so your team can operate independently.
-
-You’re not getting a prototype — you’re getting a platform.
+- You’re modernizing or migrating systems  
+- You operate in regulated industries  
+- You need a long-term data partner  
 
 ---
 
-## Cloud‑Focused, Not Cloud‑Locked
+## What’s Included — Always
 
-We focus on a small number of proven platforms to deliver reliable, scalable analytics.
+Every engagement includes:
 
-Our solutions are primarily built on:
+- Production-ready architecture  
+- Infrastructure-as-Code  
+- Monitoring & alerts  
+- Security & access control  
+- Full documentation & handover  
 
-* **Amazon Web Services (AWS)**
-* **Google Cloud Platform (GCP)**
-* **Snowflake**
+You’re not getting a prototype.  
+**You’re getting a platform your team can run.**
+
+---
+
+## Cloud-Focused, Not Cloud-Locked
+
+We specialize in a small number of proven platforms to deliver quality and speed.
+
+**Primary ecosystems**
 
 <p>
-  <img src="assets/aws.svg" alt="AWS" height="32"/>
-  <img src="assets/gcp.svg" alt="Google Cloud" height="32"/>
-  <img src="assets/snowflake.svg" alt="Snowflake" height="32"/>
+  <img src="assets/aws.svg" alt="AWS" height="36"/>
+  &nbsp;&nbsp;
+  <img src="assets/gcp.svg" alt="Google Cloud" height="36"/>
+  &nbsp;&nbsp;
+  <img src="assets/snowflake.svg" alt="Snowflake" height="36"/>
 </p>
 
-*Platforms we primarily work with. Logos are trademarks of their respective owners.*
-
-By specializing in these ecosystems, we move faster, apply best practices consistently, and avoid unnecessary complexity — while still designing systems that can evolve as your needs grow.
+By focusing on AWS, GCP, and Snowflake, we apply best practices consistently —  
+while designing systems that can evolve with your needs.
 
 ---
 
 ## Let’s Build Analytics That Last
 
-Whether you’re just starting with data or scaling an existing platform, we’ll help you move faster — without creating future problems.
+Whether you’re just starting with data or scaling an existing platform:
 
-**Start with a standardized foundation. Customize only when it counts.**
+**Start with a standardized foundation.  
+Customize only when it counts.**
 
 ---
 
 ## Contact
 
+<div id="contact"></div>
+
 If this sounds like a fit, let’s talk.
 
-* **Email:** [suhendro.winton@gmail.com](mailto:suhendro.winton@gmail.com)
-* **LinkedIn:** [linkedin.com/in/suhendro-w-1907a4112](https://www.linkedin.com/in/suhendro-w-1907a4112/)
+- **Email:** [suhendro.winton@gmail.com](mailto:suhendro.winton@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/suhendro-w-1907a4112](https://www.linkedin.com/in/suhendro-w-1907a4112/)
 
-Reach out with a short description of your company, data challenges, and goals — we’ll take it from there.
+*Reach out with a short description of your company, data challenges, and goals — we’ll take it from there.*
