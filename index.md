@@ -39,9 +39,9 @@ We do the opposite.
 
 **The result:**
 
-- Faster time to insight  
-- Lower long-term maintenance cost  
-- Systems that scale with your business  
+✔ Faster time to insight  
+✔ Lower long-term maintenance cost  
+✔ Systems that scale with your business  
 
 ---
 
@@ -49,14 +49,18 @@ We do the opposite.
 
 ### Pricing Overview
 
-| Tier | Engagement Type | Pricing |
+| Tier | Engagement Type | Pricing
 |----|----|----|
-| **Standardized Analytics** | One-time project | From **USD 25,000** |
-| **Enterprise Analytics** | One-time project | Scope-based |
-| **Partnership** | Ongoing | Custom |
-| **Consulting & Advisory** | Time-based | Hourly / Daily |
+| **Standardized Analytics** | One-time project ( 3-6 months ) | From **USD 25,000**
+| **Enterprise Analytics** | One-time project | Scope-based
+| **Partnership** | Ongoing | Custom | Contract-based
+| **Consulting & Advisory** | Time-based | Hourly / Daily
 
 Exact pricing depends on data volume, sources, and delivery timeline.
+
+### How Much You Are Savings
+
+To build a Production Ready Data Platform and Analytics is not a small investment. You will need around 3 Data Engineers, 1 Data Analyst and 1 DevOps and 1 year time of development. The initial cost can be as low as **USD 50,000**. Assuming that you paid the same infrastructure cost, our services saves you about half the initial cost and half the development time. This is possible due to the experience and standardized flow that we proposed. Not to mention everything is documented and is accessible to you.
 
 ---
 
@@ -184,8 +188,7 @@ while designing systems that can evolve with your needs.
 
 Whether you’re just starting with data or scaling an existing platform:
 
-**Start with a standardized foundation.  
-Customize only when it counts.**
+**Start with a standardized foundation. Customize only when it counts.**
 
 ---
 
