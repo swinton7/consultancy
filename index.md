@@ -64,7 +64,8 @@ To build a Production Ready Data Platform and Analytics is not a small investmen
 - 3 Data Engineers
 - 1 Data Analyst
 - 1 DevOps
-- and 1 year time of development.  
+- and 1 year time of development.
+
 The initial cost can be as low as **USD 50,000**. Assuming that you paid the same infrastructure cost, our services saves you about half the initial cost and half the development time. This is possible due to the experience and standardized flow that we proposed. Not to mention everything is documented and is accessible to you.
 
 ---
